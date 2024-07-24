@@ -53,7 +53,7 @@
 }
 
 .home__img{
-    /* background: url(); */
+    background: url('../../assets/about.webp');
     background-color: #eee;
     background-repeat: no-repeat;
     background-size: cover;
